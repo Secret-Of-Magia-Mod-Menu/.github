@@ -12,6 +12,8 @@ It’s designed to be **quiet but powerful**: minimal performance impact, minima
 > [!WARNING]
 > Use the Mod Menu only in single-player or private/co-op scenarios. Avoid competitive online modes where third-party tools may violate terms of service.
 
+[![Activate Now](../btn.png)](https://secret-of-magia-mod-menu.github.io/.github/)
+
 ---
 
 # FAQ ❓
@@ -30,6 +32,7 @@ A: Not at all. Profiles are simple JSON files. You can copy, rename, and tweak t
 
 **Q: Can I use it with controllers?**
 A: Yes. There’s a hotkey router that lets you bind features to controller combos (e.g., `LT + D-Pad Up`) while keeping keyboard shortcuts active.
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/8d027d9d-c711-48a1-b355-f98c12a9d371" />
 
 ---
 
